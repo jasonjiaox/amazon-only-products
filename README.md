@@ -52,3 +52,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Privacy Policy
 
 This extension does not collect or store any user data. It only modifies Amazon search results pages to filter products sold by Amazon.
+
+## Related Tools
+
+- [BuySmart AI](https://www.buysmart.ai/chat) - AI-powered shopping assistant
