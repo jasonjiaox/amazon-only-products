@@ -1,0 +1,53 @@
+{
+  "name": "amazon-only-products",
+  "displayName": "Amazon-Only Products",
+  "version": "1.0.0",
+  "description": "__MSG_extensionDescription__",
+  "author": "Jason Jiao",
+  "scripts": {
+    "dev": "plasmo dev",
+    "build": "plasmo build",
+    "package": "plasmo package"
+  },
+  "dependencies": {
+    "plasmo": "0.89.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@ianvs/prettier-plugin-sort-imports": "4.1.1",
+    "@types/chrome": "0.0.258",
+    "@types/node": "20.11.5",
+    "@types/react": "18.2.48",
+    "@types/react-dom": "18.2.18",
+    "prettier": "3.2.4",
+    "typescript": "5.3.3"
+  },
+  "manifest": {
+    "manifest_version": 3,
+    "name": "__MSG_extensionName__",
+    "default_locale": "en",
+    "host_permissions": [
+      "*://*.amazon.com/*",
+      "*://*.amazon.co.jp/*",
+      "*://*.amazon.co.uk/*",
+      "*://*.amazon.de/*",
+      "*://*.amazon.fr/*",
+      "*://*.amazon.ca/*",
+      "*://*.amazon.es/*",
+      "*://*.amazon.it/*",
+      "*://*.amazon.com.be/*",
+      "*://*.amazon.nl/*",
+      "*://*.amazon.pl/*",
+      "*://*.amazon.se/*",
+      "*://*.amazon.com.mx/*",
+      "*://*.amazon.com.br/*",
+      "*://*.amazon.com.tr/*",
+      "*://*.amazon.com.au/*",
+      "*://*.amazon.ae/*"
+    ],
+    "permissions": [
+      "tabs"
+    ]
+  }
+}

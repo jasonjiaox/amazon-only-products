@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "Alleen Amazon Producten - Geen externe verkopers",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Toon alleen producten die rechtstreeks door Amazon worden verkocht en verzonden. Filtert automatisch alle externe verkopers uit uw zoekresultaten.",
+    "description": "Description of the extension."
+  }
+} 

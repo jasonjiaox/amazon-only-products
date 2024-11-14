@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "Amazonのみの商品 - 第三者販売なし",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Amazonが直接販売・発送する商品のみを表示します。検索結果から全ての第三者販売者を自動的にフィルタリングします。",
+    "description": "Description of the extension."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "Sadece Amazon Ürünleri - Üçüncü Taraf Satıcı Yok",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Yalnızca Amazon tarafından doğrudan satılan ve gönderilen ürünleri gösterir. Arama sonuçlarınızdan tüm üçüncü taraf satıcıları otomatik olarak filtreler.",
+    "description": "Description of the extension."
+  }
+} 

@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "亚马逊自营商品 - 无第三方卖家",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "仅显示亚马逊直接销售和发货的商品。自动过滤搜索结果中的所有第三方卖家商品。",
+    "description": "Description of the extension."
+  }
+} 

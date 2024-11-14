@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "Chỉ Sản Phẩm của Amazon - Không Có Người Bán Bên Thứ Ba",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Chỉ hiển thị các sản phẩm được bán và vận chuyển trực tiếp bởi Amazon. Tự động lọc tất cả người bán bên thứ ba khỏi kết quả tìm kiếm của bạn.",
+    "description": "Description of the extension."
+  }
+} 

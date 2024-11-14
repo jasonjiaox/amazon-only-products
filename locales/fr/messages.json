@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "Produits Amazon uniquement - Sans vendeurs tiers",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Affiche uniquement les produits vendus et expédiés directement par Amazon. Filtre automatiquement tous les vendeurs tiers de vos résultats de recherche.",
+    "description": "Description of the extension."
+  }
+} 

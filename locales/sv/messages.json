@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "Endast Amazon-produkter - Inga tredjepartsförsäljare",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Visa endast produkter som säljs och levereras direkt av Amazon. Filtrerar automatiskt bort alla tredjepartsförsäljare från dina sökresultat.",
+    "description": "Description of the extension."
+  }
+} 

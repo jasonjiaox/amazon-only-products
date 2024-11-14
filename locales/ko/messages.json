@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "아마존 전용 상품 - 서드파티 셀러 제외",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "아마존이 직접 판매하고 배송하는 상품만 표시합니다. 검색 결과에서 모든 서드파티 셀러를 자동으로 필터링합니다.",
+    "description": "Description of the extension."
+  }
+} 

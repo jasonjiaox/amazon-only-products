@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "Nur Amazon-Produkte - Keine Drittanbieter",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Zeigt nur Produkte, die direkt von Amazon verkauft und versendet werden. Filtert automatisch alle Drittanbieter aus Ihren Suchergebnissen.",
+    "description": "Description of the extension."
+  }
+}

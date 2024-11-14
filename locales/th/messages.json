@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "สินค้าจาก Amazon เท่านั้น - ไม่มีผู้ขายบุคคลที่สาม",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "แสดงเฉพาะสินค้าที่ขายและจัดส่งโดย Amazon โดยตรง กรองผู้ขายบุคคลที่สามทั้งหมดออกจากผลการค้นหาของคุณโดยอัตโนมัติ",
+    "description": "Description of the extension."
+  }
+} 

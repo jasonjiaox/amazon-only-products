@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "केवल Amazon उत्पाद - कोई थर्ड पार्टी विक्रेता नहीं",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "सिर्फ Amazon द्वारा सीधे बेचे और भेजे गए उत्पादों को दिखाएं। आपके खोज परिणामों से सभी थर्ड पार्टी विक्रेताओं को स्वचालित रूप से फ़िल्टर करता है।",
+    "description": "Description of the extension."
+  }
+} 

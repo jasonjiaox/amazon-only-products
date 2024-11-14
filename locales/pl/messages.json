@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "Tylko produkty Amazon - Bez zewnętrznych sprzedawców",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Pokazuje tylko produkty sprzedawane i wysyłane bezpośrednio przez Amazon. Automatycznie filtruje wszystkich zewnętrznych sprzedawców z wyników wyszukiwania.",
+    "description": "Description of the extension."
+  }
+} 

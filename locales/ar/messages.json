@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "منتجات أمازون فقط - بدون بائعين من طرف ثالث",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "عرض المنتجات المباعة والمشحونة من أمازون مباشرة فقط. يقوم تلقائياً بتصفية جميع البائعين من طرف ثالث من نتائج البحث الخاصة بك.",
+    "description": "Description of the extension."
+  }
+} 

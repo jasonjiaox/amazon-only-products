@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "亞馬遜自營商品 - 無第三方賣家",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "僅顯示亞馬遜直接銷售和發貨的商品。自動過濾搜尋結果中的所有第三方賣家商品。",
+    "description": "Description of the extension."
+  }
+} 
